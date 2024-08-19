@@ -3,10 +3,10 @@ Welcome to the IPL Analysis Dashboard project! This Power BI dashboard offers a 
 # 📌 Project Overview
 The Indian Premier League (IPL) is one of the most celebrated T20 cricket leagues in the world. This dashboard is designed to provide:
 
-1 Total Seasons Analyzed: 17 (2008 - 2024)
-2 Total Teams Covered: 16 franchises
-3 Total Matches Analyzed: 1077
-4 Key Metrics:
+1. Total Seasons Analyzed: 17 (2008 - 2024)
+2. Total Teams Covered: 16 franchises
+3. Total Matches Analyzed: 1077
+4. Key Metrics:
 1 Average Runs per Match: Tracking the evolution of scoring trends.
 2 Top Team Qualifiers: Identifying consistent playoff contenders.
 3 Player and Venue Analysis: Performance metrics for players and stadiums.
